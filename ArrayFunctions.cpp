@@ -26,7 +26,7 @@ int sumArray(int a[], int size){
     {
         sum = sum + a[i];
     }
-    
+    return sum;
 }
 int main()
 {
@@ -35,6 +35,8 @@ int main()
     cin >> n;   // taking input for n
     int a[n];   // initialising array a[]
 
-
+    inputArray(a,n);
+    printArray(a,n);
+    cout << sumArray(a,n) << endl;
 
 }
