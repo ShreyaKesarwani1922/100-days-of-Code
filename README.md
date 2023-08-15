@@ -10,9 +10,9 @@ But this journey is about more than just solving problems. It's about embracing 
 
 ## GitHub Repository
 
-To hold myself accountable and to showcase my progress, I've created a dedicated GitHub repository. You can find it at [Link to Your GitHub Repo](https://github.com/yourusername/your-repo). In this repository, you'll discover my solutions to coding challenges, neatly organized and thoroughly documented. Your feedback and support mean the world to me, so feel free to explore the repository and provide your valuable insights. 🌐📂
+To hold myself accountable and to showcase my progress, I've created this dedicated GitHub repository. In this repository, you'll discover my solutions to coding challenges, neatly organized and thoroughly documented. Your feedback and support mean the world to me, so feel free to explore the repository and provide your valuable insights. 🌐📂
 
-## Learning Web Development 🌐🎨
+## Learning Web Development 🌐🎨 
 
 But wait, there's more! Alongside coding challenges, I'm embarking on an exciting journey of learning web development. From crafting visually appealing interfaces to building responsive websites, I'm all in. My ambitious goal is to create at least two stunning web projects that truly showcase my skills and creativity. Get ready to witness my evolution in the world of web development!
 
@@ -25,9 +25,8 @@ Throughout this journey, I'll be using the hashtags **#CodingJourney**, **#WebDe
 Here's to pushing boundaries, embracing challenges, and sharing achievements. Cheers to a hundred days of learning, coding, and creating! 🚀👩‍💻
 
 Let's connect:
-- Follow me on Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
-- Connect on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: your@email.com
+- Connect on LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/shreya2023/)
+- Email: shreyakesarwani2023@gmail.com
 
 Happy coding! 💻✨
 
